@@ -23,5 +23,7 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "repository": "https://github.com/jjns/conceitos-frontend.git",
+  "author": "Neto <jjns.januario@gmail.com>"
 }
